@@ -2,7 +2,7 @@
 
 I am Marcin Fabisiak and I am a Front End Developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcinfabisiak123@gmail.com)](mailto:marcinfabisiak123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-marcinfabisiak123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcinfabisiak123@gmail.com)](mailto:marcinfabisiak123@gmail.com)
 
 ## ⚡ Technologies
 
@@ -16,9 +16,3 @@ I am Marcin Fabisiak and I am a Front End Developer and love writing clean and m
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
-
