@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am Marcin Fabisiak and I am a Front End Developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
-
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) marcinfabisiak123@gmail.com
+I am Marcin Fabisiak and I am a Front End Developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here: marcinfabisiak123@gmail.com
 
 ## ⚡ Technologies
 
